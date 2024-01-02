@@ -2,7 +2,7 @@
 <h3 align="center">soy un full stack developer apasionado por aprender y trabajar en nuevos proyectos</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afradenburg&label=Profile%20views&color=0e75b6&style=flat" alt="afradenburg" /> </p>
-
+ Siempre he buscado adquirir nuevos conocimientos que tengan que ver con la tecnologia, estoy feliz de poder compartir los siguientes proyectos en los que trabaje
 - estuve trabajando en el proyecto final [Vorttex Gaming](https://vorttex-gaming-topabli2-topablis-projects.vercel.app)
 
 - estoy aprendiendo sobre **css y carritos de compras**
