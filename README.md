@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Andrés Castro Flechas</h1>
-<h3 align="center">un full stack developer apasionado por aprender y trabajar en nuevos proyectos</h3>
+<h3 align="center">soy un full stack developer apasionado por aprender y trabajar en nuevos proyectos</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afradenburg&label=Profile%20views&color=0e75b6&style=flat" alt="afradenburg" /> </p>
 
