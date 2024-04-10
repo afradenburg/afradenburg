@@ -6,7 +6,7 @@
 
 - estuve trabajando en el proyecto final [Vorttex Gaming](https://vorttex-gaming-topabli2-topablis-projects.vercel.app)
 
-- estoy aprendiendo sobre **css y carritos de compras**
+- estoy aprendiendo sobre **Inteligencia Artificial principios basicos y IA en la Universidad sergio arboleda**
 
 - realice mi proyecto individual [Dogs page](https://pi-dogs-jet.vercel.app/)
 
